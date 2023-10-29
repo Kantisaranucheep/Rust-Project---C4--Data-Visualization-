@@ -1,0 +1,1 @@
+D:\kanti\KMITL\software\ engineering\ year1\esp\project\data_visulaization_report_generator\target\debug\data_visulaization_report_generator.exe: D:\kanti\KMITL\software\ engineering\ year1\esp\project\data_visulaization_report_generator\src\main.rs
